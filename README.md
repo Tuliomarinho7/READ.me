@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Noticias CSA</h1>
+<h1 align="left">:file_cabinet: Notícias CSA</h1>
 
 ## :memo: Descrição
 Site especializado em notícias e venda de produtos Centro Sportivo Alagoano
